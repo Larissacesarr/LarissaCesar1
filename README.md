@@ -1,6 +1,8 @@
-👋 Hello! Welcome to my Github profile.
+👋 𝗛𝗲𝗹𝗹𝗼! 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗽𝗿𝗼𝗳𝗶𝗹𝗲.
 
 My name is Larissa Cesar and my nickname is Lari!
+
+• I'm a programming and english student
 
 <div>
 <a href="https://github.com/LarissaCesar1">
@@ -10,7 +12,7 @@ My name is Larissa Cesar and my nickname is Lari!
   
   ![Snake animation](https://github.com/LarissaCesar1/LarissaCesar1/blob/output/github-contribution-grid-snake.svg)
   
-Ferramentas e Tecnologias
+𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height = "70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height = "70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height = "70"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height = "70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height = "70" />
   
