@@ -9,3 +9,8 @@ My name is Larissa Cesar and my nickname is Lari!
 </div>
   
   ![Snake animation](https://github.com/LarissaCesar1/LarissaCesar1/blob/output/github-contribution-grid-snake.svg)
+  
+Ferramentas e Tecnologias
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height = "70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height = "70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height = "70"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height = "70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height = "70" />
+  
