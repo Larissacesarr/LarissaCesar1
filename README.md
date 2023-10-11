@@ -1,10 +1,14 @@
-👋 𝗛𝗲𝗹𝗹𝗼! 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗽𝗿𝗼𝗳𝗶𝗹𝗲.
+##  Hello! I'm Larissa Cesar 
 
-My name is Larissa Cesar and my nickname is Lari!
+• Graduando na área de Engenharia de Dados
+• Estudante de Inglês
+• Desenvolvedora Back End 
 
-• I'm a programming and english student
+💻 Em constante aprendizado e conhecimento 💻
 
-𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height = "70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height = "70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height = "70"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height = "70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height = "70" />
+<div align="center">
+  <a href="https://github.com/dudlves">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LarissaCesar1&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaCesar1&layout=compact&langs_count=7&theme=onedark"/>
+</div>
   
