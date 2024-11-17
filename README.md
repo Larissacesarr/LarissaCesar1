@@ -4,7 +4,7 @@
 • Estudante de Inglês
 • Desenvolvedora Back End 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
