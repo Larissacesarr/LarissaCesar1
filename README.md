@@ -126,16 +126,3 @@
 <br/>
 
 ![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake-dark.svg)
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/larissacesar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    <a href="https://github.com/LarissaCesar1?tab=repositories&sort=stargazers">
-    </a>
-    <a href="https://github.com/LarissaCesar1?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LarissaCesar1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
