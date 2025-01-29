@@ -126,3 +126,5 @@
 <br/>
 
 ![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake-dark.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=EE82EE&section=footer"/>
