@@ -109,14 +109,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LarissaCesar1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissacesarr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaCesar1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=en" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissacesarr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=en" 
   />
 
 </p>
